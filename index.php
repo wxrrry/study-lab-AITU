@@ -5,6 +5,16 @@
     <title>Главная</title>
     <link rel="stylesheet" href="/assets/css/style.css">
 </head>
+<header>
+    <nav>
+        <ul>
+            <li><a href="/index.php">Главная</a></li>
+            <li><a href="/pages/about.php">О нас</a></li>
+            <li><a href="/pages/contact.php">Контакты</a></li>
+        </ul>
+    </nav>
+</header>
+
 <body>
     <?php include 'includes/header.php'; ?>
     <main>
