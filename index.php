@@ -22,4 +22,8 @@
     </main>
     <?php include 'includes/footer.php'; ?>
 </body>
+<footer>
+    <p>&copy; <?= date('Y') ?> Мой сайт</p>
+</footer>
+
 </html>
